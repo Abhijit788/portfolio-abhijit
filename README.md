@@ -282,49 +282,6 @@ npm run build
 # Start production server
 npm run start
 \`\`\`
-
-## 📁 Project Structure
-
-
-portfolio/
-├── app/                          # Next.js App Router
-│   ├── blog/                     # Blog pages
-│   │   └── [slug]/              # Dynamic blog post pages
-│   │       └── page.tsx         # Individual blog post
-│   ├── components/              # React components
-│   │   ├── ui/                  # Reusable UI components
-│   │   ├── AnimateOnScroll.tsx  # Scroll animation wrapper
-│   │   ├── TypewriterText.tsx   # Typewriter effect component
-│   │   ├── EnhancedHeader.tsx   # Navigation header
-│   │   ├── EnhancedAbout.tsx    # Hero/About section
-│   │   ├── Skills.tsx           # Skills showcase
-│   │   ├── Projects.tsx         # Project portfolio
-│   │   ├── Experience.tsx       # Work experience
-│   │   ├── Education.tsx        # Educational background
-│   │   ├── Blog.tsx             # Blog section
-│   │   ├── Contact.tsx          # Contact form
-│   │   ├── ThemeToggle.tsx      # Theme switcher
-│   │   └── CodeBackground.tsx   # Animated background
-│   ├── globals.css              # Global styles & CSS variables
-│   ├── layout.tsx               # Root layout with providers
-│   └── page.tsx                 # Home page
-├── public/                      # Static assets
-│   ├── images/                  # Image assets
-│   └── icons/                   # Icon files
-├── styles/                      # Additional stylesheets
-├── lib/                         # Utility functions
-├── types/                       # TypeScript type definitions
-├── tailwind.config.js           # Tailwind configuration
-├── next.config.js               # Next.js configuration
-├── tsconfig.json                # TypeScript configuration
-├── eslint.config.js             # ESLint configuration
-├── package.json                 # Dependencies & scripts
-├── .gitignore                   # Git ignore rules
-├── LICENSE                      # MIT License
-├── CONTRIBUTING.md              # Contribution guidelines
-└── README.md                    # Project documentation
-
-
 ## 🎨 Design Philosophy
 
 ### Leaky-Code Aesthetic
