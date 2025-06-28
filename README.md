@@ -405,9 +405,9 @@ Built with ❤️ and ☕ by Abhijit Arote using v0 by Vercel
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/portfolio-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/portfolio-website?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/portfolio-website)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/portfolio-website)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-portfolio.vercel.app)
+![GitHub stars](https://img.shields.io/github/stars/Abhijit788/portfolio-abhijit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Abhijit788/portfolio-abhijit?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Abhijit788/portfolio-abhijit)
+![GitHub license](https://img.shields.io/github/license/Abhijit788/portfolio-abhijit)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fportfolio-abhijit-f.vercel.app)
 \`\`\`
