@@ -395,14 +395,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS Team** - For the utility-first approach
 - **Open Source Contributors** - For all the amazing libraries
 
----
-
-⭐ **Star this repository if you found it helpful!**
-
-Built with ❤️ and ☕ by Abhijit Arote using v0 by Vercel
-
----
-
 ## 📊 Project Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/Abhijit788/portfolio-abhijit?style=social)
