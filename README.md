@@ -285,7 +285,7 @@ npm run start
 
 ## 📁 Project Structure
 
-\`\`\`
+
 portfolio/
 ├── app/                          # Next.js App Router
 │   ├── blog/                     # Blog pages
@@ -323,7 +323,7 @@ portfolio/
 ├── LICENSE                      # MIT License
 ├── CONTRIBUTING.md              # Contribution guidelines
 └── README.md                    # Project documentation
-\`\`\`
+
 
 ## 🎨 Design Philosophy
 
