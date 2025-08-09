@@ -23,6 +23,20 @@ export default function Projects() {
       commits: 127,
     },
     {
+      title: "Speech Fluency App",
+      description:
+        "Developed a web application to improve spoken English fluency through progressive difficulty levels and real-time speech analysis. Integrated AssemblyAI for accurate speech-to-text, scoring fluency, pronunciation, and sentence accuracy. Implemented strict mode for precision-based scoring and responsive UI for multi-device use. Performed production build and deployment on Vercel using v0 for optimized performance.",
+      date: "2025",
+      location: "Pune",
+      link: "https://speechfluencyapp.vercel.app/",
+      tools: ["Next.js", "Tailwind CSS", "AssemblyAI API", "Vercel"],
+      achievement: "Launched production-ready speech analysis app with live deployment",
+      category: "Full-Stack / AI",
+      leakyCode: "const speechApp = new FluencyEngine({ api: 'AssemblyAI', mode: 'strict' });",
+      status: "production",
+      commits: 96,
+    },
+    {
       title: "DeepFake Detect (UI/UX)",
       description:
         "Designed a responsive interface to detect and present deepfake results intuitively. Worked with a team to align UI design with functional goals. Designed 15% quicker user interface for deepfake detection tool.",
