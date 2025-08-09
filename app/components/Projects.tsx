@@ -85,6 +85,7 @@ export default function Projects() {
     Design: Zap,
     "Data Science": Code,
     "Full Stack": Cpu,
+    "Full-Stack / AI": Cpu,
   }
 
   const statusColors = {
@@ -164,7 +165,11 @@ export default function Projects() {
                         <div className="ide-control maximize"></div>
                       </div>
                       <div className="flex-1 flex items-center justify-center space-x-2 min-w-0">
-                        <CategoryIcon className="h-3 w-3 md:h-4 md:w-4 flex-shrink-0" />
+                        {CategoryIcon ? (
+                          <CategoryIcon className="h-3 w-3 md:h-4 md:w-4 flex-shrink-0" />
+                        ) : (
+                          <Code className="h-3 w-3 md:h-4 md:w-4 flex-shrink-0" />
+                        )}
                         <span className="text-xs md:text-sm truncate">
                           {project.title.toLowerCase().replace(/\s+/g, "-")}.repo
                         </span>

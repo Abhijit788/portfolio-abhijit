@@ -1,6 +1,5 @@
 "use client"
 
-import { AnimatePresence } from "framer-motion"
 import CodeBackground from "./components/CodeBackground"
 import EnhancedHeader from "./components/EnhancedHeader"
 import EnhancedAbout from "./components/EnhancedAbout"
@@ -15,20 +14,18 @@ import SpotlightCursor from "./components/spotlight-cursor"
 
 export default function Home() {
   return (
-    <AnimatePresence>
-      <main className="min-h-screen bg-gray-900 text-gray-100 relative overflow-hidden">
-        <SpotlightCursor />
-        <ScrollProgress />
-        <CodeBackground />
-        <EnhancedHeader />
-        <EnhancedAbout />
-        <Skills />
-        <Projects />
-        <Experience />
-        <Education />
-        <Blog />
-        <Contact />
-      </main>
-    </AnimatePresence>
+    <main className="min-h-screen bg-gray-900 text-gray-100 relative overflow-hidden">
+      <SpotlightCursor />
+      <ScrollProgress />
+      <CodeBackground />
+      <EnhancedHeader />
+      <EnhancedAbout />
+      <Skills />
+      <Projects />
+      <Experience />
+      <Education />
+      <Blog />
+      <Contact />
+    </main>
   )
 }
