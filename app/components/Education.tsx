@@ -13,7 +13,7 @@ export default function Education() {
       location: "Ravet, Pune, Maharashtra",
       status: "in_progress",
       level: "undergraduate",
-      gpa: "8.5/10",
+      gpa: "8.2/10",
     },
     {
       institution: "PCET's Pimpri Chinchwad Polytechnic",
@@ -192,10 +192,10 @@ export default function Education() {
                           <div className="space-y-2">
                             <div className="flex justify-between text-xs syntax-comment">
                               <span>Progress</span>
-                              <span>60%</span>
+                              <span>75%</span>
                             </div>
                             <div className="progress-container">
-                              <div className="progress-bar" style={{ width: "60%" }}></div>
+                              <div className="progress-bar" style={{ width: "75%" }}></div>
                             </div>
                           </div>
                         )}

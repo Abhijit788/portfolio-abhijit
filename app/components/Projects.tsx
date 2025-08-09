@@ -263,7 +263,8 @@ export default function Projects() {
                               className="code-button flex items-center justify-center space-x-2 text-xs w-full sm:w-auto px-4 py-2"
                             >
                               <ExternalLink className="h-3 w-3" />
-                              <span>view_repo()</span>
+                              <span>{project.title == "Speech Fluency App" ? "View App" : "View Repo()"}</span>
+
                             </Link>
                           )}
                         </div>
