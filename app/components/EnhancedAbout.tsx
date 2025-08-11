@@ -407,7 +407,7 @@ export default function EnhancedAbout() {
                 {/* Download Resume - Full width on mobile */}
                 <div className="pt-4 border-t border-gray-700">
                   <a
-                    href="https://drive.google.com/uc?export=download&id=1aECwDrMUt7eoFd6qFOqIgo3k5pLvymlB"
+                    href="https://drive.google.com/uc?export=download&id=1mE6xM8erQPcQwWjaknoxOr3qpxtHa7-m"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="code-button w-full flex items-center justify-center space-x-2 syntax-function group relative overflow-hidden"
